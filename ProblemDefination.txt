@@ -1,42 +1,15 @@
 			Online shopping System
-Write web application for Fabrikam multination company   for   online shoping for their custemer.
+Write web application for Fabrikam multination company   for   online shoping for thier custemer.
+
 Website should show the product details to customer.
+
 There should be one portal for customer to give their feedback about company product and their experince about online shopping.
+
  Campany has Amazon cloud webservices subcription.
-So create web application and deploy it  on Amazon server and use this server as "Infrastructure as Service".
+
+So create web application and deploy it  on Amazon server and use this server as "Infrastructure as Service"
+.
 Also host this web application on public Google cloud plateform  for   more scalability,fast access, and more consistency.
-
-
-
-Functional Requrement
-
-For Customer			
-1.login user
-2.show product details
-3.select product
-4.Add to cart
-5.Make order
-6.Cancel order
-7.Give feedback
-8.payment
-9.logout
-
-
-For Admin
-
-1.Login
-2.Show Customer details
-3.Check feedback
-4.Add product
-5.update product
-6.delete product
-
-Non-Functional Requirement
-
-
-1.Security
-2.Scalability
-3.Avaibality
 
 
 
